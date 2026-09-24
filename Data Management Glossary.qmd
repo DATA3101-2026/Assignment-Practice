@@ -31,4 +31,5 @@ editor: visual
 * COUNTER usage statistics
 * Peer review
 * SAFES Data
+* FAIR Principles
 * CARE Principles
