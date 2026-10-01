@@ -6,30 +6,31 @@ editor: visual
 
 ## Organizations
 
-* CRKN
-* Digital Research Alliance of Canada
-* DataCite Canada Consortium
-* Borealis
-* CrossRef
-* LAC
-* CPIDAC
+- CRKN
+- Digital Research Alliance of Canada
+- DataCite Canada Consortium
+- Borealis
+- CrossRef
+- LAC
+- CPIDAC
 
 ## Persistent Identifiers
 
-* PID
-* ORCID
-* DOI
-* ISSN
+- PID
+- ORCID
+- DOI
+- ISSN
 
 ## Concepts
-* Open Access
-* Open Source
-* Metadata
-* License (as a verb, providing access to ejournals, databases, etc)
-* Creative Commons License
-* Trustworthy Digital Repository (TDR)
-* COUNTER usage statistics
-* Peer review
-* SAFES Data
-* FAIR Principles
-* CARE Principles
+
+- Open Access
+- Open Source - a software with publicly available source code. This feature allows users to alter software to their needs and promotes transparency, collaboration and growth. (<https://opensource.psu.edu/project/what-is-open-source-software/>)
+- Metadata
+- License (as a verb, providing access to ejournals, databases, etc)
+- Creative Commons License
+- Trustworthy Digital Repository (TDR)
+- COUNTER usage statistics
+- Peer review
+- SAFES Data
+- FAIR Principles
+- CARE Principles
