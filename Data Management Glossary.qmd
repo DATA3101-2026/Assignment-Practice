@@ -32,4 +32,4 @@ editor: visual
 * Peer review
 * SAFES Data
 * FAIR Principles
-* CARE Principles
+* CARE Principles - Collective benefit, Authority to control, Responsibility, Ethics. The CARE principles are used when collecting data from or about indigenous people to ensure fair and ethical practices that do not echo the mistakes of the past. These provide emphasis on the consent of indigenous people to give data (and avoiding stealing with an area for collective benefit and that they be informed about your use of it.
