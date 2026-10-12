@@ -25,7 +25,8 @@ editor: visual
 
 - Open Access
 - Open Source
-- Metadata
+- Metadata:
+  - Metadata: Metadata is information that describes a dataset, such as who created it, when and how it was collected, what each variable means, and how it can be used. According to the University of Michigan Library, metadata "describes the content, quality, condition, and other characteristics of data." Good metadata helps organize and preserve data, makes it discoverable in repositories, and gives other researchers the context they need to understand and reuse it. ([University of Michigan Library](https://guides.lib.umich.edu/metadata))
 - License (as a verb, providing access to ejournals, databases, etc)
 - Creative Commons License
 - Trustworthy Digital Repository (TDR)
