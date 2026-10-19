@@ -6,33 +6,44 @@ editor: visual
 
 ## Organizations
 
-- CRKN
+- CRKN: CRKN expands access to global research and Canada’s documentary heritage for members, communities, and future generations.-Canadian Research Knowledge Network-Canadian Research Knowledge Network
 - Digital Research Alliance of Canada
 - DataCite Canada Consortium
 - Borealis
 - CrossRef
 - LAC
 - CPIDAC
-- Statistics Canada - For a final project it may be interesting to implement government data such as census data offered by Statistics Canada.
+- Statistics Canada: Government's national statistical office, collection data, analyzing, and publishing statisitcal data about Canadian society and census data.
+(source: https://www.statcan.gc.ca/en/start)
 
 ## Persistent Identifiers
 
 - PID
-- ORCID
-- DOI
+- ORCID: a free, unique, persistent identifier (PID) for individuals to use as they engage in research, scholarship, and innovation activities. Learn how ORCID can help you spend more time conducting your research and less time managing it. \[ORCID\](<https://orcid.org/>)
+- DOI: A Digital Object Identifier is a perstistent identifier alphanumeric string. Used as an "address" for locating digital materials like journal articles and datasets
 - ISSN
 
 ## Concepts
 
 - Open Access
-- Open Source
-- Metadata
+- Open Source: a software with publicly available source code. This feature allows users to alter software to their needs and promotes transparency, collaboration and growth. (<https://opensource.psu.edu/project/what-is-open-source-software/>)
+- Metadata: "Data about data" It is information that describes a dataset, such as who created it, when and how it was collected and what each variable means, so that others can find, understand, and reuse the data.
 - License (as a verb, providing access to ejournals, databases, etc)
-- Creative Commons License
+- Creative Commons License: "Ensures that research publications are freely and openly available online, enabling widespread access to evidence-based knowledge. Any use or reuse of open access content is still subject to full and proper attribution and will have an appropriate license" - <https://www.crkn-rcdr.ca/en/open-access>- Creative Commons License: Open license run by a non-profit group that allows sharing of knowledge in the public domain. <https://creativecommons.org/what-we-do/>
 - Trustworthy Digital Repository (TDR)
 - COUNTER usage statistics
 - Peer review
 - SAFES Data
-- FAIR Principles
-- CARE Principles
-- Data repository - Data repositories have different uses, they are a place where data can be held, where is can be used, and a place where data can be organized in an appropriate manner. It can also serve as a place where researchers can organize and submit their data in a location that is specific to their subject of research. Source: <https://datamanagement.hms.harvard.edu/about/data-management-terminology>
+- FAIR Principles: An acronym that supports and portrays the need for ethical creation and use of data. It is a way of remembering the core principles behind utilizing data properly. The goal is to make data easy for both people and computers to find, access, combine with other data and use it again.
+  - F \[Findable\]: Metadata and data should be easy to find for both humans and computers.
+  - A \[Accessible\]: Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorization.
+  - I \[Interoperable\]: The data usually needs to be integrated with other data.
+  - R \[Reusable\]: Optimize the reuse of data, all data should be well described so it can be replicated or combined.
+  - Source (1): <https://www.gofair.foundation/fair-principles>
+  - Source (2): https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html 
+- CARE Principles: Collective benefit, Authority to control, Responsibility, Ethics. The CARE principles are used when collecting data from or about indigenous people to
+ensure fair and ethical practices that do not echo the mistakes of the past. These provide emphasis on the consent of indigenous people to give data (and avoiding stealing
+with an area for collective benefit and that they be informed about your use of it.
+- Digital research infrastructure (DRI): "collection of tools and services that allow researchers to turn big data into scientific breakthroughs." (https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/digital-research-infrastructure)
+- Microdata: individual data/response from survey before statistical analysis. each of them represents individuals that answered survey (source:https://guides.library.ubc.ca/datastatistics/microdata )
+- Data repository: Data repositories have different uses, they are a place where data can be held, where is can be used, and a place where data can be organized in an appropriate manner. It can also serve as a place where researchers can organize and submit their data in a location that is specific to their subject of research. Source: <https://datamanagement.hms.harvard.edu/about/data-management-terminology>
