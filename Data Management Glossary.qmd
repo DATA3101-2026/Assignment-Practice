@@ -26,12 +26,8 @@ editor: visual
 ## Concepts
 
 - Open Access
-- Open Source
-- Metadata
-- License (as a verb, providing access to ejournals, databases, etc)
-- Creative Commons License
 - Open Source: a software with publicly available source code. This feature allows users to alter software to their needs and promotes transparency, collaboration and growth. (<https://opensource.psu.edu/project/what-is-open-source-software/>)
-- Metadata: data about data
+- Metadata: "Data about data" It is information that describes a dataset, such as who created it, when and how it was collected and what each variable means, so that others can find, understand, and reuse the data.
 - License (as a verb, providing access to ejournals, databases, etc)
 - Creative Commons License: "Ensures that research publications are freely and openly available online, enabling widespread access to evidence-based knowledge. Any use or reuse of open access content is still subject to full and proper attribution and will have an appropriate license" - <https://www.crkn-rcdr.ca/en/open-access>- Creative Commons License: Open license run by a non-profit group that allows sharing of knowledge in the public domain. <https://creativecommons.org/what-we-do/>
 - Trustworthy Digital Repository (TDR)
