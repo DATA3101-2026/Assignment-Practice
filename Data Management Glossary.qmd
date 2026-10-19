@@ -6,14 +6,15 @@ editor: visual
 
 ## Organizations
 
-- CRKN
-- Digital Research Alliance of Canada
-- DataCite Canada Consortium
-- Borealis
-- CrossRef
-- LAC
-- CPIDAC
-- Statistics Canada
+* CRKN
+* Digital Research Alliance of Canada
+* DataCite Canada Consortium
+* Borealis
+* CrossRef
+* LAC
+* CPIDAC
+* Statistics Canada: national statistical office, collection data, analyzing, and publishing statisitcal data about Canadian society. For me, Data from Canadian Health Survey on Children and Youth looks interesting
+(source: https://www.statcan.gc.ca/en/start)
 
 ## Persistent Identifiers
 
@@ -21,7 +22,6 @@ editor: visual
 - ORCID: a free, unique, persistent identifier (PID) for individuals to use as they engage in research, scholarship, and innovation activities. Learn how ORCID can help you spend more time conducting your research and less time managing it. \[ORCID\](<https://orcid.org/>)
 - DOI: A Digital Object Identifier is a perstistent identifier alphanumeric string. Used as an "address" for locating digital materials like journal articles and datasets
 - ISSN
-
 
 ## Concepts
 
@@ -39,10 +39,11 @@ editor: visual
   - A \[Accessible\]: Once the user finds the required data, she/he/they need to know how they can be accessed, possibly including authentication and authorization.
   - I \[Interoperable\]: The data usually needs to be integrated with other data.
   - R \[Reusable\]: Optimize the reuse of data, all data should be well described so it can be replicated or combined.
-  Source (1): <https://www.gofair.foundation/fair-principles>
-  Source (2): https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html 
+  - Source (1): <https://www.gofair.foundation/fair-principles>
+  - Source (2): https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html 
 - CARE Principles: Collective benefit, Authority to control, Responsibility, Ethics. The CARE principles are used when collecting data from or about indigenous people to
 ensure fair and ethical practices that do not echo the mistakes of the past. These provide emphasis on the consent of indigenous people to give data (and avoiding stealing
 with an area for collective benefit and that they be informed about your use of it.
 - Digital research infrastructure (DRI): "collection of tools and services that allow researchers to turn big data into scientific breakthroughs." (https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/digital-research-infrastructure)
+- Microdata: individual data/response from survey before statistical analysis. each of them represents individuals that answered survey (source:https://guides.library.ubc.ca/datastatistics/microdata )
 
