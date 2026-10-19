@@ -6,8 +6,7 @@ editor: visual
 
 ## Organizations
 
-* CRKN
-* Digital Research Alliance of Canada
+* CRKN-CRKN expands access to global research and Canada’s documentary heritage for members, communities, and future generations.-Canadian Research Knowledge Network-Canadian Research Knowledge Network
 * DataCite Canada Consortium
 * Borealis
 * CrossRef
