@@ -6,13 +6,14 @@ editor: visual
 
 ## Organizations
 
-* CRKN-CRKN expands access to global research and Canada’s documentary heritage for members, communities, and future generations.-Canadian Research Knowledge Network-Canadian Research Knowledge Network
-* DataCite Canada Consortium
-* Borealis
-* CrossRef
-* LAC
-* CPIDAC
-* Statistics Canada: national statistical office, collection data, analyzing, and publishing statisitcal data about Canadian society. For me, Data from Canadian Health Survey on Children and Youth looks interesting
+- CRKN: CRKN expands access to global research and Canada’s documentary heritage for members, communities, and future generations.-Canadian Research Knowledge Network-Canadian Research Knowledge Network
+- Digital Research Alliance of Canada
+- DataCite Canada Consortium
+- Borealis
+- CrossRef
+- LAC
+- CPIDAC
+- Statistics Canada: Government's national statistical office, collection data, analyzing, and publishing statisitcal data about Canadian society and census data.
 (source: https://www.statcan.gc.ca/en/start)
 
 ## Persistent Identifiers
@@ -45,4 +46,4 @@ ensure fair and ethical practices that do not echo the mistakes of the past. The
 with an area for collective benefit and that they be informed about your use of it.
 - Digital research infrastructure (DRI): "collection of tools and services that allow researchers to turn big data into scientific breakthroughs." (https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/digital-research-infrastructure)
 - Microdata: individual data/response from survey before statistical analysis. each of them represents individuals that answered survey (source:https://guides.library.ubc.ca/datastatistics/microdata )
-
+- Data repository: Data repositories have different uses, they are a place where data can be held, where is can be used, and a place where data can be organized in an appropriate manner. It can also serve as a place where researchers can organize and submit their data in a location that is specific to their subject of research. Source: <https://datamanagement.hms.harvard.edu/about/data-management-terminology>
