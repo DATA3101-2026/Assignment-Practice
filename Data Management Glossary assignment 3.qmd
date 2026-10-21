@@ -1,0 +1,37 @@
+---
+title: "Data Management Glossary"
+format: gfm
+editor: visual
+---
+
+## Organizations
+
+- CRKN
+- Digital Research Alliance of Canada
+- DataCite Canada Consortium
+- Borealis
+- CrossRef
+- LAC
+- CPIDAC
+
+## Persistent Identifiers
+
+- PID
+- ORCID
+  - Full Name " Open researcher and contributor ID": it is a unique, free, global 16-digit code that serves as an "academic ID" for researchers
+- DOI
+- ISSN
+
+## Concepts
+
+- Open Access
+- Open Source
+- Metadata
+- License (as a verb, providing access to ejournals, databases, etc)
+- Creative Commons License
+- Trustworthy Digital Repository (TDR)
+- COUNTER usage statistics
+- Peer review
+- SAFES Data
+- FAIR Principles
+- CARE Principles
